@@ -26,16 +26,41 @@
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                 <h4 class="modal-title">@Html.DisplayFor(m => m.FirstName) @Html.DisplayFor(m => m.LastName) | New Case</h4>
             </div>
+
             <div class="modal-body">
-                <label>
-                    Start Date:
-                    <input type="text" class="form-control" />
-                </label>
-                <label>
-                    End Date:
-                    <input type="text" class="form-control" />
-                </label>
-                <p>TODO: Make the submit button actually work</p>
+                <div class="row">
+                    <div class='col-sm-6'>
+                        <label for="startDate">
+                            Start Date:
+                        </label>
+                        <div class="form-group">
+                            <div class='input-group date' id='datetimepicker1'>
+
+                                <input type="text" id="startDate" class="form-control" />
+                                <span class="input-group-addon">
+                                    <span class="glyphicon glyphicon-calendar"></span>
+                                </span>
+                            </div>
+                        </div>
+
+
+                        <label for="endDate">
+                            End Date:
+
+                        </label>
+                        <div class="form-group">
+                            <div class='input-group date' id='datetimepicker2'>
+
+                                <input type="text" class="form-control" id="endDate" />
+                                <span class="input-group-addon">
+                                    <span class="glyphicon glyphicon-calendar"></span>
+                                </span>
+                            </div>
+                        </div>
+
+                        <p>TODO: Make the submit button actually work</p>
+                    </div>
+                    </div>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-primary">Submit Case</button>

@@ -1,0 +1,3 @@
+C:\AT\Developer Project\Take Home\Take Home.Logic\bin\Debug\netstandard1.4\TakeHome.Logic.deps.json
+C:\AT\Developer Project\Take Home\Take Home.Logic\obj\Debug\netstandard1.4\TakeHome.Logic.csprojResolveAssemblyReference.cache
+C:\AT\Developer Project\Take Home\Take Home.Logic\obj\Debug\netstandard1.4\TakeHome.Logic.AssemblyInfo.cs

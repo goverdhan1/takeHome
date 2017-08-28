@@ -1,0 +1,41 @@
+﻿@model TakeHome.Models.EmployeeViewModel
+@{
+    ViewBag.Title = "Employee Index";
+}
+<h2 class="page-header">
+    @Html.DisplayFor(m => m.FirstName) @Html.DisplayFor(m => m.LastName) | EMPLOYEE ID @Html.DisplayFor(m => m.EmployeeNumber)
+    <a href="#createCaseModal" data-toggle="modal" class="btn btn-primary pull-right"><span></span>Create New Case</a>
+</h2>
+
+
+<p>
+    TODO: Display list of cases here
+</p>
+<p>
+    Options: Ajax retrieval, Partial, or modifying EmployeeViewModel to bring back the list of cases
+</p>
+
+<div id="createCaseModal" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">@Html.DisplayFor(m => m.FirstName) @Html.DisplayFor(m => m.LastName) | New Case</h4>
+            </div>
+            <div class="modal-body">
+                <label>
+                    Start Date:
+                    <input type="text" class="form-control" />
+                </label>
+                <label>
+                    End Date:
+                    <input type="text" class="form-control" />
+                </label>
+                <p>TODO: Make the submit button actually work</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary">Submit Case</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

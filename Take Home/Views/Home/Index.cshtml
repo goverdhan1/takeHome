@@ -1,0 +1,60 @@
+﻿@model   TakeHome.Models.HomeViewModel
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<h2 class="page-header">Absence<span>Soft</span> | <span class="">Home Page</span></h2>
+<div class="row">
+    <div class="col-md-6 col-xs-12">
+        <h2>All Employees <span class="pull-right glyphicon glyphicon-user"></span></h2>
+        <table class="table">
+            <thead><tr><th>Name</th><th>Employee ID</th><th>Employer</th></tr></thead>
+            <tbody>
+                @foreach (var employee in Model.Employees)
+                {
+                <tr>
+                    <td><a href="@Url.Action("Index", "Employee", new { id=employee.Id})">@employee.FirstName @employee.LastName</a></td>
+                    <td>@employee.EmployeeNumber</td>
+                    <td>@employee.EmployeeNumber</td>
+                </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+    <div class="col-md-6 col-xs-12">
+        <h2>
+            Approved Cases
+            <span class="pull-right glyphicon glyphicon-briefcase"></span>
+        </h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Case Id</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var employeeCase in Model.Cases)
+                {
+                    <tr>
+                        <td>@employeeCase.FirstName @employeeCase.LastName</td>
+                        <td>@employeeCase.CaseNumber</td>
+                        <td>
+                            @if (employeeCase.Approved)
+                            {
+                                <text>Approved</text>
+                            }
+                            else
+                            {
+                                <text>Denied</text>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

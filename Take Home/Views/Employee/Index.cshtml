@@ -2,10 +2,14 @@
 @{
     ViewBag.Title = "Employee Index";
 }
-<h2 class="page-header">
-    @Html.DisplayFor(m => m.FirstName) @Html.DisplayFor(m => m.LastName) | EMPLOYEE ID @Html.DisplayFor(m => m.EmployeeNumber)
-    <a href="#createCaseModal" data-toggle="modal" class="btn btn-primary pull-right"><span></span>Create New Case</a>
-</h2>
+<section class="page-header">
+    @Html.DisplayFor(m => m.FirstName) @Html.DisplayFor(m => m.LastName) | <Span class="subtitle">
+    EMPLOYEE ID @Html.DisplayFor(m => m.EmployeeNumber)
+</Span>
+    <div class="pull-right">
+        <a href="#createCaseModal" data-toggle="modal" class="btn btn-primary"><span class="glyphicon glyphicon-plus"> </span> Create New Case</a>
+    </div>
+</section>
 
 
 <p>

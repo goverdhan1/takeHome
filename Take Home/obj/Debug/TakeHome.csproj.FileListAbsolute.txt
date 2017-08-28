@@ -226,3 +226,79 @@ C:\Users\gkoyalk\Take Home Project\Take Home\obj\Debug\TakeHome.csprojResolveAss
 C:\Users\gkoyalk\Take Home Project\Take Home\obj\Debug\TakeHome.csproj.CoreCompileInputs.cache
 C:\Users\gkoyalk\Take Home Project\Take Home\obj\Debug\Take Home.dll
 C:\Users\gkoyalk\Take Home Project\Take Home\obj\Debug\Take Home.pdb
+C:\Users\gkoyalk\TakeHome\Take Home\bin\ApplicationInsights.config
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\csc.exe
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\csc.exe.config
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\csc.rsp
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\csi.exe
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\csi.rsp
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\System.AppContext.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\vbc.exe
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\vbc.exe.config
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\vbc.rsp
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\VBCSCompiler.exe
+C:\Users\gkoyalk\TakeHome\Take Home\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Take Home.dll.config
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Take Home.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Take Home.pdb
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Antlr3.Runtime.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.AI.Web.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Newtonsoft.Json.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.Helpers.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.Mvc.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.Optimization.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.Razor.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.WebPages.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.WebPages.Razor.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\TakeHome.Logic.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\WebGrease.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Insight.Database.Providers.Default.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Insight.Database.dll
+C:\Users\gkoyalk\TakeHome\Take Home\bin\TakeHome.Logic.pdb
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.Helpers.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.Mvc.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.Optimization.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.Razor.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.WebPages.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\System.Web.WebPages.Razor.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Antlr3.Runtime.pdb
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Newtonsoft.Json.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Microsoft.AI.Web.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Insight.Database.Providers.Default.pdb
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Insight.Database.Providers.Default.xml
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Insight.Database.pdb
+C:\Users\gkoyalk\TakeHome\Take Home\bin\Insight.Database.xml
+C:\Users\gkoyalk\TakeHome\Take Home\obj\Debug\TakeHome.csprojResolveAssemblyReference.cache
+C:\Users\gkoyalk\TakeHome\Take Home\obj\Debug\TakeHome.csproj.CoreCompileInputs.cache
+C:\Users\gkoyalk\TakeHome\Take Home\obj\Debug\Take Home.dll
+C:\Users\gkoyalk\TakeHome\Take Home\obj\Debug\Take Home.pdb

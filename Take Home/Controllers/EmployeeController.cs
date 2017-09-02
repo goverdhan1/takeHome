@@ -18,15 +18,23 @@ namespace Take_Home.Controllers
         /// <returns></returns>
         public ActionResult Index(int? id)
         {
-            Employee employeeData = null;
-            if(id.HasValue)
-                employeeData = LogicAndDataAccess.ViewEmployeeById(id.Value);
+            //Employee employeeData = null;
+            //if(id.HasValue)
+            //    employeeData = LogicAndDataAccess.ViewEmployeeById(id.Value);
 
-            // Translate employee data to view model
-            EmployeeViewModel viewModel = new EmployeeViewModel(employeeData);
-            return View(viewModel);
+            //// Translate employee data to view model
+            //EmployeeViewModel viewModel = new EmployeeViewModel(employeeData);
+
+            if (id.HasValue)
+            {
+                CaseListViewModel caseList = new CaseListViewModel();
+                caseList.Employee = LogicAndDataAccess.ViewEmployeeById(id.Value);
+                caseList.caseList = LogicAndDataAccess.ViewCasesForEmployee(id.Value);
+                return View(caseList);
+            }
+            return Content("An error occured. Please try again");
         }
-
+        
         /// <summary>
         /// End Point to create a case for an employee
         /// </summary>

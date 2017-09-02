@@ -1,70 +1,48 @@
-﻿@model TakeHome.Models.EmployeeViewModel
+﻿@model TakeHome.Models.CaseListViewModel
 @{
     ViewBag.Title = "Employee Index";
 }
+@*EmployeeId = theCase.EmployeeId;
+    FirstName = theCase.FirstName;
+    LastName = theCase.LastName;
+    CaseNumber = theCase.CaseNumber;
+    StartDate = theCase.StartDate;
+    EndDate = theCase.EndDate;
+    Approved = theCase.Approved;
+    Denied = theCase.Denied;*@
 <section class="page-header">
-    @Html.DisplayFor(m => m.FirstName) @Html.DisplayFor(m => m.LastName) | <Span class="subtitle">
-    EMPLOYEE ID @Html.DisplayFor(m => m.EmployeeNumber)
-</Span>
+    @Html.DisplayFor(m => m.Employee.FirstName) @Html.DisplayFor(m => m.Employee.LastName) | <Span class="subtitle">
+        EMPLOYEE ID @Html.DisplayFor(m => m.Employee.EmployeeNumber)
+    </Span>
     <div class="pull-right">
         <a href="#createCaseModal" data-toggle="modal" class="btn btn-primary"><span class="glyphicon glyphicon-plus"> </span> Create New Case</a>
     </div>
 </section>
-
-
 <p>
-    TODO: Display list of cases here
+    <table class="table table-striped">
+        <thead><tr></tr></thead>
+        <tbody>
+            @foreach (var caseViewModel in Model.caseList)
+            {
+                <tr>
+                    <td>CASE ID: @caseViewModel.CaseNumber</td>
+                    <td>
+                        @if (caseViewModel.Approved)
+                        {
+                            <span>APPROVED</span>
+                        }
+                        else if (caseViewModel.Denied)
+                        {
+                            <span>DENIED</span>
+                        }
+                    </td>
+                    <td>@caseViewModel.StartDate</td>
+                    <td>@caseViewModel.StartDate</td>
+                </tr>
+            }
+        </tbody>
+    </table>
 </p>
 <p>
     Options: Ajax retrieval, Partial, or modifying EmployeeViewModel to bring back the list of cases
 </p>
-
-<div id="createCaseModal" class="modal fade" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h4 class="modal-title">@Html.DisplayFor(m => m.FirstName) @Html.DisplayFor(m => m.LastName) | New Case</h4>
-            </div>
-
-            <div class="modal-body">
-                <div class="row">
-                    <div class='col-sm-6'>
-                        <label for="startDate">
-                            Start Date:
-                        </label>
-                        <div class="form-group">
-                            <div class='input-group date' id='datetimepicker1'>
-
-                                <input type="text" id="startDate" class="form-control" />
-                                <span class="input-group-addon">
-                                    <span class="glyphicon glyphicon-calendar"></span>
-                                </span>
-                            </div>
-                        </div>
-
-
-                        <label for="endDate">
-                            End Date:
-
-                        </label>
-                        <div class="form-group">
-                            <div class='input-group date' id='datetimepicker2'>
-
-                                <input type="text" class="form-control" id="endDate" />
-                                <span class="input-group-addon">
-                                    <span class="glyphicon glyphicon-calendar"></span>
-                                </span>
-                            </div>
-                        </div>
-
-                        <p>TODO: Make the submit button actually work</p>
-                    </div>
-                    </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary">Submit Case</button>
-            </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->

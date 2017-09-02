@@ -43,3 +43,16 @@ C:\Users\gkoyalk\Take Home Project\TakeHome.Logic\obj\Debug\TakeHome.Logic.cspro
 C:\Users\gkoyalk\Take Home Project\TakeHome.Logic\obj\Debug\TakeHome.Logic.csproj.CoreCompileInputs.cache
 C:\Users\gkoyalk\Take Home Project\TakeHome.Logic\obj\Debug\TakeHome.Logic.dll
 C:\Users\gkoyalk\Take Home Project\TakeHome.Logic\obj\Debug\TakeHome.Logic.pdb
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\TakeHome.Logic.dll
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\TakeHome.Logic.pdb
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Configuration.dll
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.dll
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Providers.Default.dll
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.pdb
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.xml
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Configuration.pdb
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Configuration.xml
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Providers.Default.pdb
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Providers.Default.xml
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\obj\Debug\TakeHome.Logic.dll
+C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\obj\Debug\TakeHome.Logic.pdb

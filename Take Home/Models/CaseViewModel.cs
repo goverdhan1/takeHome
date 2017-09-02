@@ -74,5 +74,6 @@ namespace TakeHome.Models
         /// Whether any portion of the case is denied
         /// </summary>
         public bool Denied { get; set; }
+
     }
 }

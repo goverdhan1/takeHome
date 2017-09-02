@@ -259,3 +259,68 @@ C:\Users\vikas.kolluri\Source\Repos\takeHome\Take Home.Tests\bin\Debug\System.We
 C:\Users\vikas.kolluri\Source\Repos\takeHome\Take Home.Tests\obj\Debug\TakeHome.Tests.csprojResolveAssemblyReference.cache
 C:\Users\vikas.kolluri\Source\Repos\takeHome\Take Home.Tests\obj\Debug\Take Home.Tests.dll
 C:\Users\vikas.kolluri\Source\Repos\takeHome\Take Home.Tests\obj\Debug\Take Home.Tests.pdb
+D:\takeHome\Take Home.Tests\bin\Debug\ApplicationInsights.config
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\csc.exe
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\csc.exe.config
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\csc.rsp
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\csi.exe
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\csi.rsp
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\System.AppContext.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\vbc.exe
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\vbc.exe.config
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\vbc.rsp
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\takeHome\Take Home.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\takeHome\Take Home.Tests\bin\Debug\Take Home.Tests.dll.config
+D:\takeHome\Take Home.Tests\bin\Debug\Take Home.Tests.dll
+D:\takeHome\Take Home.Tests\bin\Debug\Take Home.Tests.pdb
+D:\takeHome\Take Home.Tests\bin\Debug\Insight.Database.Configuration.dll
+D:\takeHome\Take Home.Tests\bin\Debug\Insight.Database.dll
+D:\takeHome\Take Home.Tests\bin\Debug\Insight.Database.Providers.Default.dll
+D:\takeHome\Take Home.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\takeHome\Take Home.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\takeHome\Take Home.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.Helpers.dll
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.Mvc.dll
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.Razor.dll
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.WebPages.dll
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\takeHome\Take Home.Tests\bin\Debug\Take Home.dll
+D:\takeHome\Take Home.Tests\bin\Debug\TakeHome.Logic.dll
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.Optimization.dll
+D:\takeHome\Take Home.Tests\bin\Debug\Take Home.pdb
+D:\takeHome\Take Home.Tests\bin\Debug\Take Home.dll.config
+D:\takeHome\Take Home.Tests\bin\Debug\TakeHome.Logic.pdb
+D:\takeHome\Take Home.Tests\bin\Debug\Insight.Database.pdb
+D:\takeHome\Take Home.Tests\bin\Debug\Insight.Database.xml
+D:\takeHome\Take Home.Tests\bin\Debug\Insight.Database.Configuration.pdb
+D:\takeHome\Take Home.Tests\bin\Debug\Insight.Database.Configuration.xml
+D:\takeHome\Take Home.Tests\bin\Debug\Insight.Database.Providers.Default.pdb
+D:\takeHome\Take Home.Tests\bin\Debug\Insight.Database.Providers.Default.xml
+D:\takeHome\Take Home.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.Helpers.xml
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.Mvc.xml
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.Razor.xml
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.WebPages.xml
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\takeHome\Take Home.Tests\bin\Debug\System.Web.Optimization.xml
+D:\takeHome\Take Home.Tests\obj\Debug\TakeHome.Tests.csprojResolveAssemblyReference.cache
+D:\takeHome\Take Home.Tests\obj\Debug\Take Home.Tests.dll
+D:\takeHome\Take Home.Tests\obj\Debug\Take Home.Tests.pdb

@@ -56,3 +56,17 @@ C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\Insight.Da
 C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Providers.Default.xml
 C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\obj\Debug\TakeHome.Logic.dll
 C:\Users\vikas.kolluri\Source\Repos\takeHome\TakeHome.Logic\obj\Debug\TakeHome.Logic.pdb
+D:\takeHome\TakeHome.Logic\bin\Debug\TakeHome.Logic.dll
+D:\takeHome\TakeHome.Logic\bin\Debug\TakeHome.Logic.pdb
+D:\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Configuration.dll
+D:\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.dll
+D:\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Providers.Default.dll
+D:\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.pdb
+D:\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.xml
+D:\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Configuration.pdb
+D:\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Configuration.xml
+D:\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Providers.Default.pdb
+D:\takeHome\TakeHome.Logic\bin\Debug\Insight.Database.Providers.Default.xml
+D:\takeHome\TakeHome.Logic\obj\Debug\TakeHome.Logic.csprojResolveAssemblyReference.cache
+D:\takeHome\TakeHome.Logic\obj\Debug\TakeHome.Logic.dll
+D:\takeHome\TakeHome.Logic\obj\Debug\TakeHome.Logic.pdb

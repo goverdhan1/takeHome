@@ -19,13 +19,24 @@ namespace Take_Home
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                         "~/Scripts/modernizr-*"));
 
+            bundles.Add(new ScriptBundle("~/bundles/caseFunctionality").Include(
+                        "~/Scripts/caseFunc*"));
+
+            bundles.Add(new ScriptBundle("~/bundles/jqueryUi").Include(
+                        "~/Scripts/jqueryui.min.js"));
+           
+
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js",
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/Site.css",
+                      "~/Content/jqueryui.css"
+                      ));
+
+
         }
     }
 }

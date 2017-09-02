@@ -377,3 +377,78 @@ C:\Users\vikas.kolluri\Source\Repos\takeHome\Take Home\bin\Insight.Database.xml
 C:\Users\vikas.kolluri\Source\Repos\takeHome\Take Home\obj\Debug\TakeHome.csprojResolveAssemblyReference.cache
 C:\Users\vikas.kolluri\Source\Repos\takeHome\Take Home\obj\Debug\Take Home.dll
 C:\Users\vikas.kolluri\Source\Repos\takeHome\Take Home\obj\Debug\Take Home.pdb
+D:\takeHome\Take Home\bin\ApplicationInsights.config
+D:\takeHome\Take Home\bin\roslyn\csc.exe
+D:\takeHome\Take Home\bin\roslyn\csc.exe.config
+D:\takeHome\Take Home\bin\roslyn\csc.rsp
+D:\takeHome\Take Home\bin\roslyn\csi.exe
+D:\takeHome\Take Home\bin\roslyn\csi.rsp
+D:\takeHome\Take Home\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\takeHome\Take Home\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\takeHome\Take Home\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\takeHome\Take Home\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\takeHome\Take Home\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\takeHome\Take Home\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\takeHome\Take Home\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\takeHome\Take Home\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\takeHome\Take Home\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\takeHome\Take Home\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\takeHome\Take Home\bin\roslyn\System.AppContext.dll
+D:\takeHome\Take Home\bin\roslyn\System.Collections.Immutable.dll
+D:\takeHome\Take Home\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\takeHome\Take Home\bin\roslyn\System.IO.FileSystem.dll
+D:\takeHome\Take Home\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\takeHome\Take Home\bin\roslyn\System.Reflection.Metadata.dll
+D:\takeHome\Take Home\bin\roslyn\vbc.exe
+D:\takeHome\Take Home\bin\roslyn\vbc.exe.config
+D:\takeHome\Take Home\bin\roslyn\vbc.rsp
+D:\takeHome\Take Home\bin\roslyn\VBCSCompiler.exe
+D:\takeHome\Take Home\bin\roslyn\VBCSCompiler.exe.config
+D:\takeHome\Take Home\bin\Take Home.dll.config
+D:\takeHome\Take Home\bin\Take Home.dll
+D:\takeHome\Take Home\bin\Take Home.pdb
+D:\takeHome\Take Home\bin\Antlr3.Runtime.dll
+D:\takeHome\Take Home\bin\Microsoft.AI.Agent.Intercept.dll
+D:\takeHome\Take Home\bin\Microsoft.AI.DependencyCollector.dll
+D:\takeHome\Take Home\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\takeHome\Take Home\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\takeHome\Take Home\bin\Microsoft.AI.Web.dll
+D:\takeHome\Take Home\bin\Microsoft.AI.WindowsServer.dll
+D:\takeHome\Take Home\bin\Microsoft.ApplicationInsights.dll
+D:\takeHome\Take Home\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\takeHome\Take Home\bin\Microsoft.Web.Infrastructure.dll
+D:\takeHome\Take Home\bin\Newtonsoft.Json.dll
+D:\takeHome\Take Home\bin\System.Web.Helpers.dll
+D:\takeHome\Take Home\bin\System.Web.Mvc.dll
+D:\takeHome\Take Home\bin\System.Web.Optimization.dll
+D:\takeHome\Take Home\bin\System.Web.Razor.dll
+D:\takeHome\Take Home\bin\System.Web.WebPages.Deployment.dll
+D:\takeHome\Take Home\bin\System.Web.WebPages.dll
+D:\takeHome\Take Home\bin\System.Web.WebPages.Razor.dll
+D:\takeHome\Take Home\bin\TakeHome.Logic.dll
+D:\takeHome\Take Home\bin\WebGrease.dll
+D:\takeHome\Take Home\bin\Insight.Database.Providers.Default.dll
+D:\takeHome\Take Home\bin\Insight.Database.dll
+D:\takeHome\Take Home\bin\TakeHome.Logic.pdb
+D:\takeHome\Take Home\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\takeHome\Take Home\bin\System.Web.Helpers.xml
+D:\takeHome\Take Home\bin\System.Web.Mvc.xml
+D:\takeHome\Take Home\bin\System.Web.Optimization.xml
+D:\takeHome\Take Home\bin\System.Web.Razor.xml
+D:\takeHome\Take Home\bin\System.Web.WebPages.xml
+D:\takeHome\Take Home\bin\System.Web.WebPages.Deployment.xml
+D:\takeHome\Take Home\bin\System.Web.WebPages.Razor.xml
+D:\takeHome\Take Home\bin\Antlr3.Runtime.pdb
+D:\takeHome\Take Home\bin\Newtonsoft.Json.xml
+D:\takeHome\Take Home\bin\Microsoft.ApplicationInsights.xml
+D:\takeHome\Take Home\bin\Microsoft.AI.DependencyCollector.xml
+D:\takeHome\Take Home\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\takeHome\Take Home\bin\Microsoft.AI.WindowsServer.xml
+D:\takeHome\Take Home\bin\Microsoft.AI.Web.xml
+D:\takeHome\Take Home\bin\Insight.Database.Providers.Default.pdb
+D:\takeHome\Take Home\bin\Insight.Database.Providers.Default.xml
+D:\takeHome\Take Home\bin\Insight.Database.pdb
+D:\takeHome\Take Home\bin\Insight.Database.xml
+D:\takeHome\Take Home\obj\Debug\TakeHome.csprojResolveAssemblyReference.cache
+D:\takeHome\Take Home\obj\Debug\Take Home.dll
+D:\takeHome\Take Home\obj\Debug\Take Home.pdb

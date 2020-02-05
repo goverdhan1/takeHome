@@ -12,7 +12,7 @@ namespace TakeHome.Logic
         /// <summary>
         /// The first name of the employee
         /// </summary>
-        public string FirstName { get; set; }
+        public string FirstName { get; set; } 
 
         /// <summary>
         /// The last name of the employee
